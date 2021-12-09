@@ -47,7 +47,3 @@ class FuzzyBool:
       return FuzzyBool(1.0 - self.__value)
    pass   
    #to be continued
-class Bin:
-   key="nRaifdjFkhjqSZbrKxZ4JVFmM4DDWKyAaCgDMKXEEGWLvPysSNqsVKM7Nu2rVXpc"
-   secret_key="z1IbeuGNYQqMuA4TRtsiD4uucAc7UNjw3Qkel057JlKMWEqwh6X2qAZzRna3dZSY"
-   pass
